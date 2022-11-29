@@ -1,0 +1,37 @@
+ * {
+   background-color:whitesmoke;
+ }
+
+ .body {
+    display:flex;
+    text-align: center;
+    justify-content:space-around;
+    padding-top: 40px;;
+   
+    height: auto;
+    }
+
+ .side  {
+     border-radius: 5px;
+    width: 30%;
+    border: 2px solid red;
+    padding: 15px;
+    
+    }
+
+ .side .side2 {
+      width: 70%
+ }
+ header {
+    text-align: center;
+ }
+ p {
+    color: rgb(27, 29, 26);
+ }
+
+ h3 {
+    color: gray;
+ }
+
+
+
