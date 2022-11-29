@@ -33,5 +33,11 @@
     color: gray;
  }
 
+ footer p {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 8px;
+ }
+
 
 
